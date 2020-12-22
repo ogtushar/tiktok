@@ -6,8 +6,14 @@
 
 ## Getting Started
 
-- GIF
-<video width="320" height="240" controls>
-  <source src="./assets/ss/vid.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+- Preview
+<img src="assets/ss/vid.gif" height="500px">
+
+### TODO
+- User Auth
+- Discover
+- Upload
+- Inbox
+- User Profile
+
+## To much left to implement !!!
